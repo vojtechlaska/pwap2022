@@ -104,7 +104,7 @@ def vypis_ukoly():
 
     vysledek = jsonify(
         {
-            "Polozky":
+            "Do ceho se dnes musis pustit":
              vypis
         }
     )
